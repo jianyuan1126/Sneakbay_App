@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #include "Generated.xcconfig"
+=======
+#include "Generated.xcconfig"
+>>>>>>> 89369e3 (Updated .gitignore and removed unnecessary files)
