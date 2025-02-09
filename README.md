@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 # Sneakbay-App
 Sneakbay is a mobile sneaker marketplace built with Flutter and Firebase, designed to enhance user experience and ensure secure transactions. It features user authentication, sneaker listings, and purchase processing. Developed using the SDLC methodology, the app aims to create a secure and intuitive platform for sneaker enthusiasts. 🚀
-=======
-# flutter_application_1
 
+# flutter_application_1
 ## Installation Guide
 
 To set up and run the Flutter Application 1 on your local machine, follow these steps:
@@ -24,9 +23,9 @@ To set up and run the Flutter Application 1 on your local machine, follow these 
    flutter pub get
 
 
-**Running the Applications**
+# **Running the Applications**
 
-**Mobile Application**
+## **Mobile Application**
 
 1. **To run the mobile application**
 
@@ -41,7 +40,7 @@ To set up and run the Flutter Application 1 on your local machine, follow these 
    flutter run
 
 
-**Web Admin Panel**
+## **Web Admin Panel**
 
 1. **To run the web admin panel**
 
@@ -54,4 +53,3 @@ To set up and run the Flutter Application 1 on your local machine, follow these 
    Launch the web admin panel by running:
 
    flutter run -d chrome
->>>>>>> 89369e3 (Updated .gitignore and removed unnecessary files)
