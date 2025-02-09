@@ -12,7 +12,7 @@ class ChatBottomSheet extends StatefulWidget {
 class _ChatBottomSheetState extends State<ChatBottomSheet> {
   final TextEditingController _textController = TextEditingController();
   final OpenAIService _openAIService =
-      OpenAIService('sk-proj-PkyAYKaFQJBzqLJYrIkUT3BlbkFJ0yvb64mB2XDGD0t5xncA');
+      OpenAIService('OPENAI_API_KEY');
   List<Map<String, String>> _chatMessages = [
     {
       'role': 'assistant',
